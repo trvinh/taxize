@@ -20,6 +20,8 @@
 <url><loc>/reference/bold_children.html</loc></url>
 <url><loc>/reference/bold_downstream.html</loc></url>
 <url><loc>/reference/bold_search.html</loc></url>
+<url><loc>/reference/bold_tax_id.html</loc></url>
+<url><loc>/reference/bold_tax_id2.html</loc></url>
 <url><loc>/reference/children.html</loc></url>
 <url><loc>/reference/class2tree.html</loc></url>
 <url><loc>/reference/classification.html</loc></url>
@@ -49,6 +51,7 @@
 <url><loc>/reference/get_id_details.html</loc></url>
 <url><loc>/reference/get_ids.html</loc></url>
 <url><loc>/reference/get_iucn.html</loc></url>
+<url><loc>/reference/get_iucn_data.html</loc></url>
 <url><loc>/reference/get_natservid.html</loc></url>
 <url><loc>/reference/get_nbnid.html</loc></url>
 <url><loc>/reference/get_pow.html</loc></url>
@@ -62,10 +65,13 @@
 <url><loc>/reference/get_wormsid.html</loc></url>
 <url><loc>/reference/getkey.html</loc></url>
 <url><loc>/reference/gisd_invasive-defunct.html</loc></url>
-<url><loc>/reference/gn_parse.html</loc></url>
+<url><loc>/reference/gna_data_sources.html</loc></url>
+<url><loc>/reference/gna_parse.html</loc></url>
+<url><loc>/reference/gna_search.html</loc></url>
+<url><loc>/reference/gna_verifier.html</loc></url>
 <url><loc>/reference/gni_details.html</loc></url>
 <url><loc>/reference/gni_parse.html</loc></url>
-<url><loc>/reference/gni_search.html</loc></url>
+<url><loc>/reference/gni_seach.html</loc></url>
 <url><loc>/reference/gnr_datasources.html</loc></url>
 <url><loc>/reference/gnr_resolve.html</loc></url>
 <url><loc>/reference/id2name.html</loc></url>
@@ -88,7 +94,6 @@
 <url><loc>/reference/iucn_id.html</loc></url>
 <url><loc>/reference/iucn_status.html</loc></url>
 <url><loc>/reference/iucn_summary.html</loc></url>
-<url><loc>/reference/iucn_summary_id-defunct.html</loc></url>
 <url><loc>/reference/key_helpers.html</loc></url>
 <url><loc>/reference/limited_print.html</loc></url>
 <url><loc>/reference/lowest_common.html</loc></url>
